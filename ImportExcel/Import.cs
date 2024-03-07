@@ -121,7 +121,7 @@ namespace ImportExcel
 
         private void btnIn_Click(object sender, EventArgs e)
         {
-
+            MessageBox.Show("a đi xa quá!!!!");
         }
     }
 }
