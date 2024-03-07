@@ -117,6 +117,12 @@
     <Compile Include="AccessData.cs" />
     <Compile Include="Class\clsImport.cs" />
     <Compile Include="Class\ImportData.cs" />
+    <Compile Include="DangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DangNhap.Designer.cs">
+      <DependentUpon>DangNhap.cs</DependentUpon>
+    </Compile>
     <Compile Include="ExcelInfo.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -143,6 +149,9 @@
     <Compile Include="Report.Designer.cs">
       <DependentUpon>Report.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="DangNhap.resx">
+      <DependentUpon>DangNhap.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="ExcelInfo.resx">
       <DependentUpon>ExcelInfo.cs</DependentUpon>
     </EmbeddedResource>
