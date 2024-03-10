@@ -26,7 +26,7 @@ namespace ImportExcel
 
         public string chuoiketnoi()
         {
-            string chuoikn1 = "Data Source=192.168.24.104;Initial Catalog=QUANLI_XE;User ID=sa;Password=sa";
+            string chuoikn1 = "Data Source=192.168.24.102426548,1125;Initial Catalog=QUANLI_XE;User ID=qlxe;Password=qlxe";
             return chuoikn1;
         }
 
