@@ -20,7 +20,9 @@ namespace ImportExcel
 
         private void simpleButton1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Đăng nhập thành công");
+            MessageBox.Show("Đăng nhập thành công 100%");
         }
+
+       
     }
 }
