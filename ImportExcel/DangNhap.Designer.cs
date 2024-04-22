@@ -39,60 +39,54 @@
             // 
             // labelControl1
             // 
-            this.labelControl1.Location = new System.Drawing.Point(75, 76);
-            this.labelControl1.Margin = new System.Windows.Forms.Padding(4);
+            this.labelControl1.Location = new System.Drawing.Point(50, 52);
             this.labelControl1.Name = "labelControl1";
-            this.labelControl1.Size = new System.Drawing.Size(76, 19);
+            this.labelControl1.Size = new System.Drawing.Size(50, 13);
             this.labelControl1.TabIndex = 0;
             this.labelControl1.Text = "Tài Khoản ";
             // 
             // labelControl2
             // 
-            this.labelControl2.Location = new System.Drawing.Point(75, 145);
-            this.labelControl2.Margin = new System.Windows.Forms.Padding(4);
+            this.labelControl2.Location = new System.Drawing.Point(50, 99);
             this.labelControl2.Name = "labelControl2";
-            this.labelControl2.Size = new System.Drawing.Size(172, 19);
+            this.labelControl2.Size = new System.Drawing.Size(45, 13);
             this.labelControl2.TabIndex = 1;
-            this.labelControl2.Text = "Mật Khẩu thích gì ghi đó";
+            this.labelControl2.Text = "Mật Khẩu";
             // 
             // simpleButton1
             // 
             this.simpleButton1.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.simpleButton1.Location = new System.Drawing.Point(162, 221);
-            this.simpleButton1.Margin = new System.Windows.Forms.Padding(4);
+            this.simpleButton1.Location = new System.Drawing.Point(108, 151);
             this.simpleButton1.Name = "simpleButton1";
-            this.simpleButton1.Size = new System.Drawing.Size(112, 34);
+            this.simpleButton1.Size = new System.Drawing.Size(75, 23);
             this.simpleButton1.TabIndex = 2;
             this.simpleButton1.Text = "Đăng Nhập";
             this.simpleButton1.Click += new System.EventHandler(this.simpleButton1_Click);
             // 
             // txttk
             // 
-            this.txttk.Location = new System.Drawing.Point(201, 72);
-            this.txttk.Margin = new System.Windows.Forms.Padding(4);
+            this.txttk.Location = new System.Drawing.Point(134, 49);
             this.txttk.Name = "txttk";
-            this.txttk.Size = new System.Drawing.Size(154, 28);
+            this.txttk.Size = new System.Drawing.Size(103, 20);
             this.txttk.TabIndex = 3;
             // 
             // txtmk
             // 
-            this.txtmk.Location = new System.Drawing.Point(201, 140);
-            this.txtmk.Margin = new System.Windows.Forms.Padding(4);
+            this.txtmk.Location = new System.Drawing.Point(134, 96);
             this.txtmk.Name = "txtmk";
-            this.txtmk.Size = new System.Drawing.Size(154, 28);
+            this.txtmk.Size = new System.Drawing.Size(103, 20);
             this.txtmk.TabIndex = 4;
             // 
             // DangNhap
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 19F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(447, 303);
+            this.ClientSize = new System.Drawing.Size(298, 207);
             this.Controls.Add(this.txtmk);
             this.Controls.Add(this.txttk);
             this.Controls.Add(this.simpleButton1);
             this.Controls.Add(this.labelControl2);
             this.Controls.Add(this.labelControl1);
-            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "DangNhap";
             this.Text = "DangNhap";
             ((System.ComponentModel.ISupportInitialize)(this.txttk.Properties)).EndInit();
