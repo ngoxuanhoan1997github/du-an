@@ -155,6 +155,9 @@
     <EmbeddedResource Include="ExcelInfo.resx">
       <DependentUpon>ExcelInfo.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Import.resx">
       <DependentUpon>Import.cs</DependentUpon>
     </EmbeddedResource>
