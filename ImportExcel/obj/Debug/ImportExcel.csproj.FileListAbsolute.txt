@@ -314,3 +314,4 @@ C:\Users\hoan.nx\Desktop\GitHub\Import Excel\ImportExcel\obj\Debug\ImportExcel.c
 C:\Users\hoan.nx\Desktop\GitHub\Import Excel\ImportExcel\obj\Debug\ImportExcel.exe.licenses
 C:\Users\hoan.nx\Desktop\GitHub\Import Excel\ImportExcel\obj\Debug\ImportExcel.csproj.CoreCompileInputs.cache
 C:\Users\hoan.nx\Desktop\GitHub\Import Excel\ImportExcel\obj\Debug\ImportExcel.csproj.CopyComplete
+C:\Users\hoan.nx\Desktop\GitHub\Import Excel\ImportExcel\obj\Debug\ImportExcel.Form1.resources
